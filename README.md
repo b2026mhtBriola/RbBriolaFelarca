@@ -9,9 +9,9 @@ through "memes", short humorous clips or images that spread rapidly across areas
 For this this project we have curated the 4 (in our opinion) most iconic song that fit this description.
 These 4 songs are but a small sample of the immeasurable numbers of memes that prevail in our digital world.
 
-
 List of Pages:
   1. Homepage - A Primary Directory of the website, and a summary of the basic premise of the site.
+    Features an 'image carousel', a frame which rotates between images to allow users to got a larger sample of the contents on the site.  The 4 selected songs will be featured in a line to the right of or below the carousel. We're not sure if it should be a line or a single frame.
   2. Never Gonna Give You Up - The Icon of the Internet Meme
   3. All Star - Smash Mouth's Shrek Smash Hit
   3. Take On Me - a-ha's Electronics-heavy Hitter
