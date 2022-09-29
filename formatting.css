@@ -1,1 +1,26 @@
 <!-- I have no idea what to put here yet -->
+
+div#nav {
+  position: sticky;
+  top: 0;
+}
+
+div#nav ol {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+div#nav li  {
+  background: hsl(236, 92%, 90%);
+  width: 100px;
+  padding: 10px;
+  margin: 0px 1px;
+  display: inline-block;
+  text-align: center;
+  border: 1px solid gray
+}
+
+div#nav li:hover {
+  background: gray;
+}
