@@ -25,3 +25,7 @@ div#nav li  {
 div#nav li:hover {
   background: gray;
 }
+
+[target] {
+  target: _blank;
+}
