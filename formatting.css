@@ -19,6 +19,7 @@ div#nav li  {
   display: inline-block;
   text-align: center;
   border: 1px solid gray
+  float: left;
 }
 
 div#nav li:hover {
