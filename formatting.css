@@ -29,3 +29,7 @@ div#nav li:hover {
 [target] {
   target: _blank;
 }
+
+footer {
+  text-align: center;
+}
