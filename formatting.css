@@ -1,9 +1,6 @@
 <!-- I have no idea what to put here yet -->
 
-div#nav {
-  position: sticky;
-  top: 0;
-}
+<!-- Put Nav Here -->
 
 div#nav ul {
   list-style-type: none;
@@ -16,7 +13,6 @@ div#nav li  {
   width: 100px;
   padding: 10px;
   margin: 0px 1px;
-  display: inline-block;
   text-align: center;
   border: 1px solid gray;
   float: left;
@@ -26,8 +22,13 @@ div#nav li:hover {
   background: gray;
 }
 
-[target] {
-  target: _blank;
+div#titleseca {
+  background-repeat: repeat-x;
+  background-attachment: fixed;
+}
+
+div#titlesecb {
+  background-attachment: fixed;
 }
 
 footer {
