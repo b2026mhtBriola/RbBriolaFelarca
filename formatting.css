@@ -2,7 +2,8 @@ header{
   position: fixed;
   background-color: #FFFFFF;
   width: 100%;
-  margin-left: 0px;
+  margin: 0;
+  z-index: 1;
 }
 
 p {
@@ -19,11 +20,15 @@ div#titlesecb {
   background-attachment: fixed;
   position:fixed;
   top:0;
+  z-index: -1;
 }
 
 #content{
+  position: relative;
   width:80%;
   margin:10px auto;
+  background-color: #FFFFFF;
+  top: 30vh;
 }
 
 footer {
@@ -31,6 +36,12 @@ footer {
 }
 
 body {
-  background-image:url("images/background.png")
+  background-image:url("images/background.png");
+  margin: 0;
+  padding: 0;
 }
 
+#nav {
+  position: relative;
+  top: 20vh;
+}
