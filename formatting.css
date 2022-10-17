@@ -1,14 +1,15 @@
 header{
   position: fixed;
-  background-color: #FFFFFF;
+  background-color: #F6F0BC;
   width: 100%;
   margin: 0;
   z-index: 1;
   padding:10px
 }
 
-p {
+#nav {
   font-size:24px;
+  text-align: center;
 }
 
 div#titleseca {
@@ -28,7 +29,7 @@ div#titlesecb {
   position: relative;
   width:80%;
   margin:10px auto;
-  background-color: #FFFFFF;
+  background-color: #F6F0BC;
   top: 30vh;
   padding: 20px;
   border-radius:50px;
@@ -51,4 +52,12 @@ body {
 #links {
   position: relative;
   top: 20vh;
+}
+
+#headertags{
+  background-color: brown;
+  border-radius: 10px;
+  padding:10px;
+  margin-right:5px;
+  margin-left: 5px;
 }
