@@ -86,3 +86,32 @@ span a {
   left: 5%;
   width: 90%;
 }
+
+#socialmedialinks {
+  width: 22%;
+  height: 200px;
+  position: absolute;
+  top: 620px;
+  right: 10px;
+  border-radius: 30px;
+  background-color:  #F6F0BC;
+  padding: 20px;
+}
+
+#youtubesprite {
+	background: url('images/imagesprites.png') no-repeat -707px -490px;
+	width: 101px;
+	height: 100px;
+}
+
+#spotifysprite {
+	background: url('images/imagesprites.png') no-repeat -869px -492px;
+	width: 97px;
+	height: 98px;
+}
+
+#applesprite {
+	background: url('images/imagesprites.png') no-repeat -1018px -502px;
+	width: 108px;
+	height: 77px;
+}
