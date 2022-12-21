@@ -98,19 +98,19 @@ span a {
   padding: 20px;
 }
 
-#youtubesprite {
+#spotifysprite {
 	background: url('images/imagesprites.png') no-repeat -707px -490px;
 	width: 101px;
 	height: 100px;
 }
 
-#spotifysprite {
+#applesprite {
 	background: url('images/imagesprites.png') no-repeat -869px -492px;
 	width: 97px;
 	height: 98px;
 }
 
-#applesprite {
+#youtubesprite {
 	background: url('images/imagesprites.png') no-repeat -1018px -502px;
 	width: 108px;
 	height: 77px;
