@@ -58,10 +58,18 @@ body {
 
 #headertags{
   background-color: #b86200;
-  border-radius: 10px;
   padding:10px;
-  margin-right:5px;
-  margin-left: 5px;
+  float:left;
+  clear:left;
+  width:14vw;
+  margin-top:0;
+}
+
+#headertitle{
+  background-color: #b86200;
+  padding:10px;
+  border-radius:10px;
+  width:14vw;
 }
 
 span a {
@@ -114,4 +122,17 @@ span a {
 	background: url('images/imagesprites.png') no-repeat -1018px -502px;
 	width: 108px;
 	height: 77px;
+}
+
+#sandwich {
+  background-color: #e58b24;
+  z-index:100;
+  overflow:hidden;
+  position:fixed;
+  height:38vh;
+  width:0vw;
+  left:0;
+  top:0;
+  padding:0;
+  margin-top:70px;
 }
